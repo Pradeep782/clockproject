@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color:#fefcfd;
+    opacity: 1;
+    margin: 150px;
+    font-size: 80px;
+    margin-left: 300px;
+    
+}
+h2{
+    color: #347209;
+    margin-top: -50px;
+    margin-left: 550px;
+    font-size: 50px;
+}
+#time{
+    border: 5px solid #347209;
+    padding: 5px;
+}
